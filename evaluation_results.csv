@@ -1,0 +1,13 @@
+Prediction File,Metric,Precision,Recall,F1-Score,Jaccard Index
+./predictions1.json,bbox,1.0,1.0,1.0,1.0
+./predictions1.json,segmentation,1.0,1.0,1.0,1.0
+./predictions1.json,category_id,0.6380952380952382,0.43478260869565216,0.46447393186523617,0.3095928226363009
+./predictions2.json,bbox,1.0,1.0,1.0,1.0
+./predictions2.json,segmentation,1.0,1.0,1.0,1.0
+./predictions2.json,category_id,0.4666666666666667,0.42857142857142855,0.4095238095238095,0.25952380952380955
+./predictions3.json,bbox,1.0,1.0,1.0,1.0
+./predictions3.json,segmentation,1.0,1.0,1.0,1.0
+./predictions3.json,category_id,0.9122222222222223,0.9,0.9014062190532779,0.8288888888888889
+./predictions4.json,bbox,1.0,1.0,1.0,1.0
+./predictions4.json,segmentation,1.0,1.0,1.0,1.0
+./predictions4.json,category_id,0.875,0.625,0.7250000000000001,0.5833333333333334

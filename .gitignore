@@ -1,0 +1,8 @@
+*pycache*
+./pycache
+img
+test
+train
+val
+.DS_Store
+*predictions*
